@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Supply Chain Intelligence Project</title>
+</head>
+<body>
+    <h1>Supply Chain Intelligence and Optimization</h1>
+    <h2>Python Data Analytics Project</h2>
+
+    <p>
+        This project analyzes supply chain data using Python,
+        Pandas, NumPy and Matplotlib.
+    </p>
+
+    <h3>Technologies Used</h3>
+    <ul>
+        <li>Python</li>
+        <li>Pandas</li>
+        <li>NumPy</li>
+        <li>Matplotlib</li>
+    </ul>
+
+    <h3>Project Objective</h3>
+    <p>
+        To analyze supply chain operations, identify business
+        problems and provide data-driven optimization insights.
+    </p>
+</body>
+</html>
