@@ -212,8 +212,6 @@
         </div>
     </div>
 </section>
-
-<section id="analysis">
 <section class="light" id="skills">
     <h2>Technical Skills</h2>
 
@@ -244,6 +242,7 @@
         </div>
     </div>
 </section>
+<section id="analysis">
     <h2>Project Workflow</h2>
 
     <div class="cards">
