@@ -156,6 +156,13 @@
     <h1>Supply Chain Intelligence and Optimization</h1>
 
     <p>
+    Hi, I'm Harish. I have completed a Bachelor of Arts
+    in Criminology and Police Administration.
+    I am interested in Data Analytics, Python and
+    technology-driven problem solving.
+    </p>
+
+    <p>
         Turning supply chain data into meaningful business insights
         using Python, data cleaning, exploratory data analysis
         and visualization.
